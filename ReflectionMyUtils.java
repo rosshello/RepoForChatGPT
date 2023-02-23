@@ -61,4 +61,9 @@ public class ReflectionMyUtils {
             e.printStackTrace();
         }
     }
+    
+    //TODO implement a function to return all members of an Annotaion.
+    
+    //TODO implement a function to return all function refs that uses an Annotation.
+    
 }
